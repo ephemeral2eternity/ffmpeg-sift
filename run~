@@ -1,0 +1,6 @@
+cd /home/cbcd/Data/video
+ncftp lab
+get /Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36068.mpg
+quit
+cd /home/cbcd/Softwares/ffmpeg
+#ffmpeg -i /home/cbcd/Data/video/BG_34413.mpg /home/cbcd/Data/video/BG_26797.yuv

@@ -1,0 +1,390 @@
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36068.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36068.mpg /home/cbcd/Data/video/BG_36068.yuv
+rm /home/cbcd/Data/video/BG_36068.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_2285.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_2285.mpg /home/cbcd/Data/video/BG_2285.yuv
+rm /home/cbcd/Data/video/BG_2285.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_9657.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_9657.mpg /home/cbcd/Data/video/BG_9657.yuv
+rm /home/cbcd/Data/video/BG_9657.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_35145.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35145.mpg /home/cbcd/Data/video/BG_35145.yuv
+rm /home/cbcd/Data/video/BG_35145.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_3458.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_3458.mpg /home/cbcd/Data/video/BG_3458.yuv
+rm /home/cbcd/Data/video/BG_3458.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_37424.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_37424.mpg /home/cbcd/Data/video/BG_37424.yuv
+rm /home/cbcd/Data/video/BG_37424.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_35536.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35536.mpg /home/cbcd/Data/video/BG_35536.yuv
+rm /home/cbcd/Data/video/BG_35536.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_38537.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38537.mpg /home/cbcd/Data/video/BG_38537.yuv
+rm /home/cbcd/Data/video/BG_38537.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36501.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36501.mpg /home/cbcd/Data/video/BG_36501.yuv
+rm /home/cbcd/Data/video/BG_36501.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35188.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35188.mpg /home/cbcd/Data/video/BG_35188.yuv
+rm /home/cbcd/Data/video/BG_35188.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36580.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36580.mpg /home/cbcd/Data/video/BG_36580.yuv
+rm /home/cbcd/Data/video/BG_36580.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_8668.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_8668.mpg /home/cbcd/Data/video/BG_8668.yuv
+rm /home/cbcd/Data/video/BG_8668.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_34835.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34835.mpg /home/cbcd/Data/video/BG_34835.yuv
+rm /home/cbcd/Data/video/BG_34835.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36497.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36497.mpg /home/cbcd/Data/video/BG_36497.yuv
+rm /home/cbcd/Data/video/BG_36497.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_34845.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34845.mpg /home/cbcd/Data/video/BG_34845.yuv
+rm /home/cbcd/Data/video/BG_34845.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_10864.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_10864.mpg /home/cbcd/Data/video/BG_10864.yuv
+rm /home/cbcd/Data/video/BG_10864.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_38014.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38014.mpg /home/cbcd/Data/video/BG_38014.yuv
+rm /home/cbcd/Data/video/BG_38014.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35064.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35064.mpg /home/cbcd/Data/video/BG_35064.yuv
+rm /home/cbcd/Data/video/BG_35064.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35290.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35290.mpg /home/cbcd/Data/video/BG_35290.yuv
+rm /home/cbcd/Data/video/BG_35290.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_34992.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34992.mpg /home/cbcd/Data/video/BG_34992.yuv
+rm /home/cbcd/Data/video/BG_34992.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35985.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35985.mpg /home/cbcd/Data/video/BG_35985.yuv
+rm /home/cbcd/Data/video/BG_35985.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_2285.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_2285.mpg /home/cbcd/Data/video/BG_2285.yuv
+rm /home/cbcd/Data/video/BG_2285.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_3097.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_3097.mpg /home/cbcd/Data/video/BG_3097.yuv
+rm /home/cbcd/Data/video/BG_3097.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38433.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38433.mpg /home/cbcd/Data/video/BG_38433.yuv
+rm /home/cbcd/Data/video/BG_38433.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35150.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35150.mpg /home/cbcd/Data/video/BG_35150.yuv
+rm /home/cbcd/Data/video/BG_35150.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_35984.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35984.mpg /home/cbcd/Data/video/BG_35984.yuv
+rm /home/cbcd/Data/video/BG_35984.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_35767.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35767.mpg /home/cbcd/Data/video/BG_35767.yuv
+rm /home/cbcd/Data/video/BG_35767.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_34845.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34845.mpg /home/cbcd/Data/video/BG_34845.yuv
+rm /home/cbcd/Data/video/BG_34845.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36609.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36609.mpg /home/cbcd/Data/video/BG_36609.yuv
+rm /home/cbcd/Data/video/BG_36609.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36538.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36538.mpg /home/cbcd/Data/video/BG_36538.yuv
+rm /home/cbcd/Data/video/BG_36538.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36591.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36591.mpg /home/cbcd/Data/video/BG_36591.yuv
+rm /home/cbcd/Data/video/BG_36591.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_37347.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_37347.mpg /home/cbcd/Data/video/BG_37347.yuv
+rm /home/cbcd/Data/video/BG_37347.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36729.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36729.mpg /home/cbcd/Data/video/BG_36729.yuv
+rm /home/cbcd/Data/video/BG_36729.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_2195.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_2195.mpg /home/cbcd/Data/video/BG_2195.yuv
+rm /home/cbcd/Data/video/BG_2195.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_2285.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_2285.mpg /home/cbcd/Data/video/BG_2285.yuv
+rm /home/cbcd/Data/video/BG_2285.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36124.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36124.mpg /home/cbcd/Data/video/BG_36124.yuv
+rm /home/cbcd/Data/video/BG_36124.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_38014.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38014.mpg /home/cbcd/Data/video/BG_38014.yuv
+rm /home/cbcd/Data/video/BG_38014.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38438.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38438.mpg /home/cbcd/Data/video/BG_38438.yuv
+rm /home/cbcd/Data/video/BG_38438.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36090.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36090.mpg /home/cbcd/Data/video/BG_36090.yuv
+rm /home/cbcd/Data/video/BG_36090.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_2763.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_2763.mpg /home/cbcd/Data/video/BG_2763.yuv
+rm /home/cbcd/Data/video/BG_2763.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36606.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36606.mpg /home/cbcd/Data/video/BG_36606.yuv
+rm /home/cbcd/Data/video/BG_36606.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_340.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_340.mpg /home/cbcd/Data/video/BG_340.yuv
+rm /home/cbcd/Data/video/BG_340.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_22677.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_22677.mpg /home/cbcd/Data/video/BG_22677.yuv
+rm /home/cbcd/Data/video/BG_22677.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35171.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35171.mpg /home/cbcd/Data/video/BG_35171.yuv
+rm /home/cbcd/Data/video/BG_35171.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38174.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38174.mpg /home/cbcd/Data/video/BG_38174.yuv
+rm /home/cbcd/Data/video/BG_38174.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36686.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36686.mpg /home/cbcd/Data/video/BG_36686.yuv
+rm /home/cbcd/Data/video/BG_36686.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38171.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38171.mpg /home/cbcd/Data/video/BG_38171.yuv
+rm /home/cbcd/Data/video/BG_38171.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_22598.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_22598.mpg /home/cbcd/Data/video/BG_22598.yuv
+rm /home/cbcd/Data/video/BG_22598.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36635.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36635.mpg /home/cbcd/Data/video/BG_36635.yuv
+rm /home/cbcd/Data/video/BG_36635.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36071.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36071.mpg /home/cbcd/Data/video/BG_36071.yuv
+rm /home/cbcd/Data/video/BG_36071.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_34987.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34987.mpg /home/cbcd/Data/video/BG_34987.yuv
+rm /home/cbcd/Data/video/BG_34987.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38117.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38117.mpg /home/cbcd/Data/video/BG_38117.yuv
+rm /home/cbcd/Data/video/BG_38117.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35183.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35183.mpg /home/cbcd/Data/video/BG_35183.yuv
+rm /home/cbcd/Data/video/BG_35183.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35541.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35541.mpg /home/cbcd/Data/video/BG_35541.yuv
+rm /home/cbcd/Data/video/BG_35541.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36090.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36090.mpg /home/cbcd/Data/video/BG_36090.yuv
+rm /home/cbcd/Data/video/BG_36090.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_37320.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_37320.mpg /home/cbcd/Data/video/BG_37320.yuv
+rm /home/cbcd/Data/video/BG_37320.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_35975.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_35975.mpg /home/cbcd/Data/video/BG_35975.yuv
+rm /home/cbcd/Data/video/BG_35975.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_28476.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_28476.mpg /home/cbcd/Data/video/BG_28476.yuv
+rm /home/cbcd/Data/video/BG_28476.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_36069.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36069.mpg /home/cbcd/Data/video/BG_36069.yuv
+rm /home/cbcd/Data/video/BG_36069.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_15833.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_15833.mpg /home/cbcd/Data/video/BG_15833.yuv
+rm /home/cbcd/Data/video/BG_15833.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_34829.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_34829.mpg /home/cbcd/Data/video/BG_34829.yuv
+rm /home/cbcd/Data/video/BG_34829.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38132.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38132.mpg /home/cbcd/Data/video/BG_38132.yuv
+rm /home/cbcd/Data/video/BG_38132.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2007/BG_38433.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38433.mpg /home/cbcd/Data/video/BG_38433.yuv
+rm /home/cbcd/Data/video/BG_38433.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_38886.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_38886.mpg /home/cbcd/Data/video/BG_38886.yuv
+rm /home/cbcd/Data/video/BG_38886.yuv
+####################################################################
+cd /home/cbcd/Data/video
+ncftpget -u lab -p lab ftp://202.117.48.208/Testing_Sequences/TRECVID_DATA/TRECVID_TV2008/BG_36582.mpg
+cd /home/cbcd/Softwares/ffmpeg
+ffmpeg -i /home/cbcd/Data/video/BG_36582.mpg /home/cbcd/Data/video/BG_36582.yuv
+rm /home/cbcd/Data/video/BG_36582.yuv
