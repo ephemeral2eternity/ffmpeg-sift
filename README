@@ -1,35 +1,26 @@
-FFmpeg README
+## FFMPEG-SIFT
+
+#### Extracting SIFT features for key frames when decoding a video in mp4, mpeg, h264 or other video formats. The SIFT features is dumped into a mysql database.
 -------------
 
-1) Documentation
-----------------
+1. Other open source code used
+  * FFMPEG: https://www.ffmpeg.org/
+  * SIFT: http://www.cs.ubc.ca/~lowe/keypoints/
+    - SIFT: Scale Invariant Feature Transformation (https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
 
-* Read the documentation in the doc/ directory.
+2. Packages added
+  * libcbcd/
+  * Database configuration:
+    - Edit following lines in libcbcd/sift_main.h
+```    
+// Add by WCC, cbcd group, 2009-0619
+#define def_host_name "localhost"
+#define def_user_name "*****"
+#define def_password  "*****"
+#define def_db_name   "feat_sift"
+```
 
-2) Licensing
-------------
-
-* Read the file COPYING.LGPL. FFmpeg and the associated libraries EXCEPT
-  for libpostproc and libswscale are licensed under the GNU Lesser General
-  Public License.
-
-* libpostproc and libswscale are distributed under the GNU General Public
-  License, see the file COPYING.GPL for details. Their compilation and use
-  in FFmpeg is optional.
-
-* The file libavcodec/x86/idct_mmx.c is distributed under the GNU General
-  Public License. It is strictly an optimization and its use is optional.
-
-* The file libavcodec/ac3dec.c is distributed under the GNU General Public
-  License.  In order for (E-)AC-3 decoding to work you need to enable GPL
-  components.
-
-* The file libavdevice/x11grab.c is distributed under the GNU General
-  Public License. X11 grabbing is optional.
-
-* The files libavcodec/jfdctfst.c, libavcodec/jfdctint.c, libavcodec/jrevdct.c
-  are taken from libjpeg, see the top of the files for licensing details.
-
-* The file libavcodec/fdctref.c is copyrighted by the MPEG Software Simulation
-  Group with all rights reserved. It is only used to create a DCT test program
-  and not compiled into libavcodec.
+3. Usage:
+  * Decoding the video while extracting features: `ffmpeg -i video_name.mpg video_name.yuv`
+  * Delete the yuv file: `rm video_name.yuv`
+  * Sample bash file in `run`
